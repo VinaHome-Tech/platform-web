@@ -9,7 +9,7 @@ import Header from '~/components/layouts/Header.vue'
     </header>
 
     <!-- Main content -->
-    <main class="flex-1 p-4">
+    <main class="flex-1">
       <slot />
     </main>
   </div>
